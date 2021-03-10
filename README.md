@@ -14,3 +14,15 @@ Problem Description:-
    You have to find if it is possible to find the treasure from your current position.
    
    
+   There are two solution files:-
+   
+   1. game_v1.py - 
+        This check if the solution exists or not. 
+        It tries to visit all the cell from the start position and retunrn true if target cell is reached.
+        
+   2. game_v2.py -
+        This gives the path travered to reach the target location. The path will not necessarily be the shortest path.
+        It used the brute force approach and recurssion to reach the solution.
+      
+   
+   
