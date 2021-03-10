@@ -22,7 +22,7 @@ Problem Description:-
         
    2. game_v2.py -
         This gives the path travered to reach the target location. The path will not necessarily be the shortest path.
-        It used the brute force approach and recurssion to reach the solution.
+        It uses the brute force approach and recurssion to reach the solution.
       
    
    
